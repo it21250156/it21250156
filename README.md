@@ -1,5 +1,5 @@
-# 💫 About Me:
-Software Engineering Undergraduate 🧑‍💻 | Content Creator 📹
+# 💫 Hello world! I'm Janith
+<center>Software Engineering Undergraduate 🧑‍💻 | Content Creator 📹 </center>
 
 
 ## 🌐 Socials:
