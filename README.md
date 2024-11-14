@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! I'm Janith 👋</h1>
 
-<h3 align="center">Software Engineering Undergraduate 🧑‍💻 | Content Creator 📹</h3>
+<h3 align="center">Trainee Software Engineer 🧑‍💻 | Content Creator 📹</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it21250156&label=Profile%20views&color=0e75b6&style=flat" alt="it21250156" /> </p>
 
